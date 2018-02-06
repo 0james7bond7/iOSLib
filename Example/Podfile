@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'iOSLib_Example' do
+  pod 'iOSLib', :path => '../'
+
+  target 'iOSLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
