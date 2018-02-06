@@ -1,0 +1,6 @@
+framework module iOSLib {
+  umbrella header "iOSLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

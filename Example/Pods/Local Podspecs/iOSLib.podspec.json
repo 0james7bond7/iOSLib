@@ -1,0 +1,22 @@
+{
+  "name": "iOSLib",
+  "version": "0.1.0",
+  "summary": "A short description of iOSLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/0james7bond7/iOSLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "0james7bond7": "0james7bond7@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/0james7bond7/iOSLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "iOSLib/Classes/**/*"
+}

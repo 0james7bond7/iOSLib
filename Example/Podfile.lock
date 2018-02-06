@@ -1,0 +1,16 @@
+PODS:
+  - iOSLib (0.1.0)
+
+DEPENDENCIES:
+  - iOSLib (from `../`)
+
+EXTERNAL SOURCES:
+  iOSLib:
+    :path: ../
+
+SPEC CHECKSUMS:
+  iOSLib: 2cb95287fd8033f8e8d77d7c8d1e3af7009f6ba1
+
+PODFILE CHECKSUM: 4f1f4af5a17f2407e13b717a1bcc92bdce1b969a
+
+COCOAPODS: 1.3.1
