@@ -15,7 +15,7 @@ DESC
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'iOSLib'
+  s.source_files = 'iOSLib/**/*'
 
     s.frameworks = 'UIKit'
   # s.dependency 'AFNetworking', '~> 2.3'
