@@ -11,7 +11,7 @@ DESC
   s.homepage         = 'https://github.com/0james7bond7/iOSLib'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '0james7bond7' => '0james7bond7@gmail.com' }
-  s.source           = { :git => 'https://github.com/0james7bond7/iOSLib.git', :tag => 0.1.0}
+  s.source           = { :git => 'https://github.com/0james7bond7/iOSLib.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
 
