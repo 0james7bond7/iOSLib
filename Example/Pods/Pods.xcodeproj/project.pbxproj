@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1A8721902029A90F009137A3 /* testClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A87218F2029A90F009137A3 /* testClass.swift */; };
 		5E37B37BCF5E3DFD46DC1275D8DE60E8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
 		660E132106516E05284FF53A724C3C4D /* Pods-iOSLib_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D3E3A347B9E673B272B34FD1171F8717 /* Pods-iOSLib_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6F33C7CA7E2E1D885613D22D30D4A598 /* iOSLib-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E8029F444C709A098002EA1603B0CC7D /* iOSLib-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -33,7 +32,6 @@
 		000564000606E80C557C9626FDE17348 /* Pods_iOSLib_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_iOSLib_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		14EE696CFF2744367CCB29EF10795EB3 /* iOSLib.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = iOSLib.xcconfig; sourceTree = "<group>"; };
 		1754E3656D9E1BA64EB13A131BA9D319 /* iOSLib-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "iOSLib-dummy.m"; sourceTree = "<group>"; };
-		1A87218F2029A90F009137A3 /* testClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testClass.swift; sourceTree = "<group>"; };
 		1CA565C061ACF6C9F3ECCD5678C96BE3 /* Pods-iOSLib_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-iOSLib_Example.release.xcconfig"; sourceTree = "<group>"; };
 		25B347178F230A77594805865AE06F74 /* Pods-iOSLib_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-iOSLib_Tests-resources.sh"; sourceTree = "<group>"; };
 		3A565BB81AC8C79702AA9C1A0168517B /* Pods-iOSLib_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-iOSLib_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
@@ -124,7 +122,6 @@
 		8B5AFC3A0B34A38A46BBCDA385CACAD3 /* iOSLib */ = {
 			isa = PBXGroup;
 			children = (
-				1A87218F2029A90F009137A3 /* testClass.swift */,
 				A20E54474A04CBB7F9F0F9A883082F06 /* Support Files */,
 			);
 			name = iOSLib;
@@ -342,7 +339,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1A8721902029A90F009137A3 /* testClass.swift in Sources */,
 				C81C3E08F908256EC8F3627E74DD0C1A /* iOSLib-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
