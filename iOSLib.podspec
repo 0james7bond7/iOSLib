@@ -30,7 +30,7 @@ DESC
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'iOSLib/Classes/**/*'
+  s.source_files = 'iOSLib'
   
   # s.resource_bundles = {
   #   'iOSLib' => ['iOSLib/Assets/*.png']
